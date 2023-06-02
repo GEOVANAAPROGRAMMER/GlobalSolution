@@ -43,5 +43,5 @@ Descrição do projeto, tecnologias utilizadas, como funcionar
 
 ## Próximos Passos
  - [ ] Pensamentos futuros
- - [ ] testes
- - [ ] exemplos
+ - [ ] exemplo 1
+ - [ ] exemplos 2
