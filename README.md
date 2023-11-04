@@ -1,4 +1,4 @@
-# PROJETO GLOBAL SOLUTION
+# PROJETO CHALLENGE 2023
 ![FiapGS](./assets/fiap%20(1).png)
 Utilização da Inteligência Artificial com o intuito de mapear os índices de insegurança alimentar da população.
 
